@@ -4,6 +4,9 @@
 # build files
 build/
 
+# simulator
+simulator/
+
 # editor config
 .vscode/
 
