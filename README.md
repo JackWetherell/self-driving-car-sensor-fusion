@@ -1,5 +1,6 @@
 # Self Driving Car: Sensor Fusion
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
 The goal of this project is to utilize an extended Kalman filter to estimate the state of a moving vehicle with noisy LIDAR and RADAR measurements.
 
 
