@@ -1,5 +1,7 @@
 # Self Driving Car: Sensor Fusion
+
 The goal of this project is to utilize an extended Kalman filter to estimate the state of a moving vehicle with noisy LIDAR and RADAR measurements.
+![](ekf.gif)
 
 
 ## Requirments
@@ -10,7 +12,7 @@ The goal of this project is to utilize an extended Kalman filter to estimate the
 - [Udacity Simulator](https://github.com/udacity/self-driving-car-sim/releases).
 
 
-## Build Instructions
+## Usage
 1. mkdir build
 2. cd build
 3. cmake ..
@@ -18,5 +20,3 @@ The goal of this project is to utilize an extended Kalman filter to estimate the
 5. ./ExtendedKF
 
 Then run the simulator and load up the EKF environment.
-
-![](ekf.gif)
